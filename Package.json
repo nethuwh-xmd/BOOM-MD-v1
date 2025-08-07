@@ -1,0 +1,26 @@
+{
+  "name": "boom-md-v3",
+  "version": "1.0.0",
+  "description": "Powerful WhatsApp bot like Gifted-MD + Prabath-MD + Knight-MD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "baileys",
+    "boom-md-v3",
+    "gifted-md",
+    "prabath-md",
+    "knight-md"
+  ],
+  "author": "NETHUWH",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.0",
+    "@hapi/boom": "^11.1.4",
+    "pino": "^8.17.0",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5"
+  }
+}
